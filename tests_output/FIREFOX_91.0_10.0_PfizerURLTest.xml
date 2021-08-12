@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="PfizerURLTest"
+    errors="0" failures="0" hostname="" id="" package="PfizerURLTest" skipped="0"
+    tests="1" time="17.63" timestamp="">
+  
+    <testcase name="Verify URL for all the pages of pfizer.com" classname="PfizerURLTest" time="17.63" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        TypeError: contactUsPageObj.navigate(...).setPause is not a function
+   - writing an ES6 async test case? - keep in mind that commands return a Promise; 
+   - writing unit tests? - make sure to specify &#34;unit_tests_mode=true&#34; in your config.
+       at Object.Verify Contact us page of pfizer.com (D:\workspace\xampp\htdocs\nightwatch_test\test_cases\PfizerContactUs.js:20:14)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

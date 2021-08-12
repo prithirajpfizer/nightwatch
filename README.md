@@ -50,15 +50,15 @@ TestCase.js
 
  
 
-module.exports = { 
+     module.exports = { 
 
-“Navigate to an url.” : browser =>{ 
+        “Navigate to an url.” : browser =>{ 
 
-browser.url(‘https://www.google.com’) 
+        browser.url(‘https://www.google.com’) 
 
-} 
+        } 
 
-} 
+     } 
 
  
 

@@ -10,9 +10,9 @@ Check node and npm installed on your system.
 
 Command: 
 
-$node –version 
+    $node –version 
 
-$npm –version 
+    $npm –version 
 
  
 
@@ -26,11 +26,11 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 Create package.json file for project and setup project. 
 
-$npm init -y 
+     $npm init -y 
 
-$npm install nightwatch geckodriver chromedriver --save-dev 
+     $npm install nightwatch geckodriver chromedriver --save-dev 
 
-$npx nightwatch 
+     $npx nightwatch 
 
  
 
@@ -61,8 +61,8 @@ TestCase.js
      } 
 
  
-
-Run $npx nightwatch 
+Run to execute:
+     $npx nightwatch 
 
  
 

@@ -62,8 +62,13 @@ TestCase.js
 
  
 Run to execute:
-     $npx nightwatch 
+     
+     $npx nightwatch --e firefox
+     $npx nightwatch --e chrome
+     
+Run using tags
 
+     $npm nightwatch --e --tags global_test
  
 
  

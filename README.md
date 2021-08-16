@@ -10,9 +10,9 @@ Check node and npm installed on your system.
 
 Command: 
 
-    $node –version 
+    $node -–version 
 
-    $npm –version 
+    $npm -–version 
 
  
 

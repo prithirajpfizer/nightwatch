@@ -51,7 +51,7 @@ TestCase.js
  
 
      module.exports = { 
-
+        "@tags" : "global_test",
         “Navigate to an url.” : browser =>{ 
 
         browser.url(‘https://www.google.com’) 

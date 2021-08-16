@@ -68,7 +68,7 @@ Run to execute:
      
 Run using tags
 
-     $npm nightwatch --e --tags global_test
+     $npm nightwatch --e firefox --tags global_test
  
 
  
